@@ -1,0 +1,49 @@
+
+.jc{
+  height:100px;
+  width:100px;
+transform:translatey(-20px);
+}
+.cub{
+  height:130px;
+  background:blue;
+width:340px;
+  transform:translatex(-8px) translatey(-50px);
+  border-style:outset;
+border-width:10px;
+  border-radius:5%;
+  border-color:#248eff;
+}
+.inf{
+  transform:translatey(-100px);
+}
+.cubf{
+width:300px;
+  padding:10px;
+  height:800px;
+  border-radius:5%;
+background:#89b6e7;
+transform:translatey(10px) translatex(-10px); 
+}
+.dv{
+padding-left:22px;
+  height:1000px;
+background:#00ffff;
+  transform:translatey(-50px);
+  border-radius:5%;
+}
+.edumast{
+  height:40px;
+ width:100px;
+background:blue;
+  transform:translatey(20px);
+  border-radius:10%;
+}
+.click{
+  height:100px;
+width:100px;
+background:blue;
+}
+.dc{
+transform:translatey(20px);
+}
